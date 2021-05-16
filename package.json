@@ -1,0 +1,26 @@
+{
+  "name": "backupcontrol",
+  "version": "1.0.0",
+  "description": "Firebase authentication and firestore backup service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOkoNetwork/backupControl.git"
+  },
+  "author": "Gregory Oakley-Stevenson <gregory@okonetwork.org.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheOkoNetwork/backupControl/issues"
+  },
+  "homepage": "https://github.com/TheOkoNetwork/backupControl#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^9.8.0",
+    "firebase-tools": "^9.10.2",
+    "google-auth-library": "^7.0.4",
+    "moment": "^2.29.1"
+  }
+}
