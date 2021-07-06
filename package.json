@@ -19,7 +19,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "firebase-admin": "^9.9.0",
-    "firebase-tools": "^9.12.1",
+    "firebase-tools": "^9.13.0",
     "google-auth-library": "^7.1.2",
     "moment": "^2.29.1"
   }
