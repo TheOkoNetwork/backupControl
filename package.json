@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/TheOkoNetwork/backupControl#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "firebase-admin": "^9.10.0",
-    "firebase-tools": "^9.14.0",
+    "firebase-tools": "^13.28.0",
     "google-auth-library": "^7.1.2",
     "moment": "^2.29.1"
   }
